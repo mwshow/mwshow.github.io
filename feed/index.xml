@@ -9,7 +9,7 @@
 
 <channel>
 	<title>The Chat Show W/ Mark Williamson</title>
-	<atom:link href="https://mwshow.podonaut.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mwshow.podonaut.com/feed/" rel="self" type="application/rss+xmlindex.xml" />
 	<link>https://mwshow.podonaut.com/</link>
 	<description></description>
 	<lastBuildDate>Sun, 26 Jul 2020 22:51:00 +0000</lastBuildDate>

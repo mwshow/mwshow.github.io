@@ -6,12 +6,13 @@
 	<title>Mark Williamson Chat Show</title>
 	<link>https://mwshow.podonaut.com/</link>
 	<description><![CDATA[Comedy on EDGE presents the Chat Show.]]></description>
-	<lastBuildDate>Mon, 14 Jun 2021 19:27:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 09:56:13 +0000</lastBuildDate>
 	
 <image><url>https://mwshow.podonaut.com/wp-content/uploads/sites/3/2021/06/mwshowx3000-scaled.jpg</url><title>Mark Williamson Chat Show</title><link>https://mwshow.podonaut.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="Mark Williamson Chat Show (podcast)" href="https://mwshow.podonaut.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://mwshow.podonaut.com/feed/podcast/index.xml" />
 	<language>en-AU</language><generator>Podlove Podcast Publisher v3.5.4</generator>
+	<copyright>Copyright © 2012-2021 Mark Williamson All Rights Reserved</copyright>
 	<itunes:author>Mark Williamson</itunes:author>
 	<itunes:type>episodic</itunes:type>
 	<itunes:summary><![CDATA[Each week comedian Mark Williamson chats to a wide variety of guests (mostly comedians) about anything and everything.]]></itunes:summary>
@@ -24,7 +25,7 @@
 	<itunes:image href="https://mwshow.podonaut.com/wp-content/uploads/sites/3/2021/06/mwshowx3000-scaled.jpg"/>
 	<itunes:subtitle>Comedy on EDGE presents the Chat Show.</itunes:subtitle>
 	<itunes:block>no</itunes:block>
-	<itunes:explicit>no</itunes:explicit>
+	<itunes:explicit>yes</itunes:explicit>
 	
 
 	

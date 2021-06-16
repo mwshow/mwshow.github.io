@@ -28,6 +28,11 @@
 	<itunes:explicit>yes</itunes:explicit>
 	
 
+	<podcast:locked owner="mwshow@podonaut.com">yes</podcast:locked>
+	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
+		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="95" />
+		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="5" />
+	</podcast:value>
 	
 	<item>
         <title>Episode 164: Josh Cohen</title>

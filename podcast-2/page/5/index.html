@@ -107,16 +107,18 @@ owa_cmds.push(['trackClicks']);
 			--><div id="site-section-primary-menu">
 					<div class="site-navbar-header">
 
-						<div id="menu-slide-in" class="menu"><ul>
-<li class="page_item page-item-430"><a href="https://mwshow.podonaut.com/">Home</a></li>
-<li class="page_item page-item-433 current_page_item"><a href="https://mwshow.podonaut.com/podcast-2/" aria-current="page">Podcast</a></li>
+						<div id="menu-main-slick" class="menu-menu-1-container"><ul id="menu-slide-in" class="menu">
+<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-433 current_page_item current_page_parent menu-item-452"><a href="https://mwshow.podonaut.com/podcast-2/" aria-current="page">Podcast</a></li>
+<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="https://mwshow.podonaut.com/about/">About</a></li>
 </ul></div>
-
 					</div>
 <!-- .site-navbar-header -->
 					<nav id="site-primary-nav">
 
-									</nav><!-- #site-primary-nav -->
+					<ul id="site-primary-menu" class="large-nav sf-menu mobile-menu clearfix">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-433 current_page_item current_page_parent menu-item-452"><a href="https://mwshow.podonaut.com/podcast-2/" aria-current="page">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="https://mwshow.podonaut.com/about/">About</a></li>
+</ul>				</nav><!-- #site-primary-nav -->
 				</div>
 <!-- #site-section-primary-menu -->
 			</div>
@@ -319,13 +321,27 @@ owa_cmds.push(['trackClicks']);
 
 			<div class="site-column-wrapper clearfix">
 
-				<div class="widget widget_search clearfix" id="search-2"><form role="search" method="get" id="searchform" class="searchform" action="https://mwshow.podonaut.com/">
-				<div>
-					<label class="screen-reader-text" for="s">Search for:</label>
-					<input type="text" value="" name="s" id="s">
-					<input type="submit" id="searchsubmit" value="Search">
-				</div>
-			</form></div>
+				<div class="widget widget_podlove_subscribe_button_widget clearfix" id="podlove_subscribe_button_widget-2">
+<script>window.podcastData80517c3d633b7d = {"title":"Mark Williamson Chat Show","subtitle":"Comedy on EDGE presents the Chat Show.","description":"Each week comedian Mark Williamson chats to a wide variety of guests (mostly comedians) about anything and everything.","cover":"https:\/\/mwshow.podonaut.com\/wp-content\/cache\/podlove\/df\/c786b5af9d76e5421d61f555bfdab1\/mark-williamson-chat-show_400x.jpg","feeds":[{"type":"audio","format":"mp3","url":"https:\/\/mwshow.podonaut.com\/feed\/podcast\/index.xml","variant":"high"}]};</script>
+<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-json-data="podcastData80517c3d633b7d" data-language="en" data-size="big auto" data-format="cover" data-style="filled" data-color="#ff8000"> </script>
+<script>
+if (typeof SubscribeButton == 'undefined') {
+
+    document.write(unescape("%3Cscript class=\"podlove-subscribe-button\" src=\"https://mwshow.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/dist/javascripts/app.js\" data-json-data=\"podcastData80517c3d633b7d\" data-language=\"en\" data-size=\"big auto\" data-format=\"cover\" data-style=\"filled\" data-color=\"#ff8000\"> %3E%3C/script%3E"));
+
+    // hide uninitialized button
+    window.setTimeout(function() {
+        iframes = document.querySelectorAll('.podlove-subscribe-button-iframe')
+        for (i = 0; i < iframes.length; ++i) {
+            if (!iframes[i].style.width && !iframes[i].style.height) {
+                iframes[i].style.display = 'none';
+            }
+        }
+    }, 5000);
+
+}
+</script>
+</div>
 			</div>
 <!-- .site-column-wrapper .clearfix -->
 

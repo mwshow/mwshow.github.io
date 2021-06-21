@@ -6,7 +6,7 @@
 	<title>Mark Williamson Chat Show</title>
 	<link>https://mwshow.podonaut.com/</link>
 	<description><![CDATA[Comedy on EDGE presents the Chat Show.]]></description>
-	<lastBuildDate>Thu, 17 Jun 2021 14:27:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 22:00:05 +0000</lastBuildDate>
 	
 <image><url>https://mwshow.podonaut.com/wp-content/uploads/sites/3/2021/06/mwshowx3000-scaled.jpg</url><title>Mark Williamson Chat Show</title><link>https://mwshow.podonaut.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="Mark Williamson Chat Show (podcast)" href="https://mwshow.podonaut.com/feed/podcast/index.xml" />
@@ -27,11 +27,12 @@
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>yes</itunes:explicit>
 	
+	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1254341697" />
 
 	<podcast:locked owner="mwshow@podonaut.com">yes</podcast:locked>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
-		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="95" />
-		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="5" />
+		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
+		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
 	
 	<item>
@@ -42,7 +43,7 @@
     	<description><![CDATA[Episode 164: Josh Cohen]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_164/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_164.mp3" length="47559002" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_164.mp3" length="47559002" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:59</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -75,7 +76,7 @@
     	<description><![CDATA[Episode 163: Ray Cashman]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_163/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_163.mp3" length="57009903" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_163.mp3" length="57009903" type="audio/mpeg"/>
 
 		<itunes:duration>01:01:28</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -110,7 +111,7 @@
     	<description><![CDATA[Episode 162: Anil Desai]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_162/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_162.mp3" length="64089056" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_162.mp3" length="64089056" type="audio/mpeg"/>
 
 		<itunes:duration>01:06:41</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -146,7 +147,7 @@
     	<description><![CDATA[Episode 161: Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_161/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_161.mp3" length="47605569" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_161.mp3" length="47605569" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:29</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -179,7 +180,7 @@
     	<description><![CDATA[Episode 160: Rob and Gareth]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_160/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_160.mp3" length="52279018" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_160.mp3" length="52279018" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -216,7 +217,7 @@
     	<description><![CDATA[Episode 159: Shane Adamczak]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_159/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_159.mp3" length="54140891" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_159.mp3" length="54140891" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:33</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -248,7 +249,7 @@
     	<description><![CDATA[Episode 158: Gareth Kidd]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_158/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_158.mp3" length="65875166" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_158.mp3" length="65875166" type="audio/mpeg"/>
 
 		<itunes:duration>01:05:34</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -280,7 +281,7 @@
     	<description><![CDATA[Episode 157: Marcus Ryan]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_157/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_157.mp3" length="35337077" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_157.mp3" length="35337077" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:36</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -315,7 +316,7 @@
     	<description><![CDATA[Episode 156: Sydney Fringe Festival]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_156/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_156.mp3" length="40027615" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_156.mp3" length="40027615" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -344,7 +345,7 @@
     	<description><![CDATA[Episode 155: Seizure Kaiser and Michael French]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_155/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_155.mp3" length="28374314" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_155.mp3" length="28374314" type="audio/mpeg"/>
 
 		<itunes:duration>00:29:31</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -380,7 +381,7 @@
     	<description><![CDATA[Episode 154: Emma Malik, Peter Green and Michael French]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_154/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_154.mp3" length="64658747" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_154.mp3" length="64658747" type="audio/mpeg"/>
 
 		<itunes:duration>01:25:02</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -420,7 +421,7 @@
     	<description><![CDATA[Episode 153: Francis Blair, Peter Meisel and Carlo Sands]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_153/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_153.mp3" length="33079783" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_153.mp3" length="33079783" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:36</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -461,7 +462,7 @@
     	<description><![CDATA[Episode 152: Peter Meisel, Francis Blair and Carlo Sands]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_152/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_152.mp3" length="32742250" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_152.mp3" length="32742250" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -502,7 +503,7 @@
     	<description><![CDATA[Episode 151: Road Trip W/Emma Malik]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_151/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_151.mp3" length="30675107" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_151.mp3" length="30675107" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:01</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -538,7 +539,7 @@
     	<description><![CDATA[Episode 150: Peter Gleeson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_150/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_150.mp3" length="42708581" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_150.mp3" length="42708581" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -571,7 +572,7 @@
     	<description><![CDATA[Episode 149: Carlo Sands and Peter Gleeson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_149/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_149.mp3" length="38968401" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_149.mp3" length="38968401" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:07</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -607,7 +608,7 @@
     	<description><![CDATA[Episode 148: MW Oh!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_148/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_148.mp3" length="33001437" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_148.mp3" length="33001437" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:20</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -635,7 +636,7 @@
     	<description><![CDATA[Episode 147: Peter Green Returns]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_147/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_147.mp3" length="42613626" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_147.mp3" length="42613626" type="audio/mpeg"/>
 
 		<itunes:duration>01:02:43</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -668,7 +669,7 @@
     	<description><![CDATA[Episode 146: Peter Green and 1984]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_146/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_146.mp3" length="41679923" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_146.mp3" length="41679923" type="audio/mpeg"/>
 
 		<itunes:duration>00:59:26</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -702,7 +703,7 @@
     	<description><![CDATA[Episode 145: Carlo Sands and Peter Green]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_145/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_145.mp3" length="41953621" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_145.mp3" length="41953621" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:37</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -739,7 +740,7 @@
     	<description><![CDATA[Episode 144: Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_144/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_144.mp3" length="45155771" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_144.mp3" length="45155771" type="audio/mpeg"/>
 
 		<itunes:duration>00:57:49</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -771,7 +772,7 @@
     	<description><![CDATA[Episode 143: Mick Meredith, Frida Deguise and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_143/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_143.mp3" length="41818430" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_143.mp3" length="41818430" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -812,7 +813,7 @@
     	<description><![CDATA[Episode 142: Andrew Paskin]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_142/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_142.mp3" length="39526279" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_142.mp3" length="39526279" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:58</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -846,7 +847,7 @@
     	<description><![CDATA[Episode 141: Peter Green and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_141/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_141.mp3" length="39427036" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_141.mp3" length="39427036" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:27</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -883,7 +884,7 @@
     	<description><![CDATA[Episode 140: Andrew Barnett and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_140/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_140.mp3" length="32420972" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_140.mp3" length="32420972" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:14</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -919,7 +920,7 @@
     	<description><![CDATA[Episode 139: Al Del bene and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_139/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_139.mp3" length="33181241" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_139.mp3" length="33181241" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -954,7 +955,7 @@
     	<description><![CDATA[Episode 138: David McNevin and Ben Squires]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_138/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_138.mp3" length="32127430" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_138.mp3" length="32127430" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:03</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -993,7 +994,7 @@
     	<description><![CDATA[Epiosde 137: Al Del Bene and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_137/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_137.mp3" length="34718804" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_137.mp3" length="34718804" type="audio/mpeg"/>
 
 		<itunes:duration>00:56:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1031,7 +1032,7 @@
     	<description><![CDATA[Episode 136: Mark and Ryan]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_136/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_136.mp3" length="23063164" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_136.mp3" length="23063164" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:03</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1063,7 +1064,7 @@
     	<description><![CDATA[Episode 135: Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_135/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_135.mp3" length="30183536" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_135.mp3" length="30183536" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:20</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1099,7 +1100,7 @@
     	<description><![CDATA[Episode 133: Road Trip Part Deux]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_134/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_134.mp3" length="24560735" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_134.mp3" length="24560735" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:53</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1128,7 +1129,7 @@
     	<description><![CDATA[Episode 132: The Mark and Ryan Show]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_133/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_133.mp3" length="30373219" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_133.mp3" length="30373219" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:55</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1155,7 +1156,7 @@
     	<description><![CDATA[Episode 132: Ryan Crawford and Friends]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_132/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_132.mp3" length="36269362" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_132.mp3" length="36269362" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1187,7 +1188,7 @@
     	<description><![CDATA[Episode 131: Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_131/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_131.mp3" length="32279383" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_131.mp3" length="32279383" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:13</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1231,7 +1232,7 @@
     	<description><![CDATA[Episode 130: Ryan Crawford and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_130/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_130.mp3" length="31015945" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_130.mp3" length="31015945" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1273,7 +1274,7 @@
     	<description><![CDATA[Episode 129: Josh Cohen and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_129/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_129.mp3" length="36035963" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_129.mp3" length="36035963" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:47</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1310,7 +1311,7 @@
     	<description><![CDATA[Episode 128: Carlo Sands]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_128/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_128.mp3" length="35763148" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_128.mp3" length="35763148" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:35</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1342,7 +1343,7 @@
     	<description><![CDATA[Episode 127: Gooodbye]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_127/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_127.mp3" length="30532638" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_127.mp3" length="30532638" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:18</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1370,7 +1371,7 @@
     	<description><![CDATA[Episode 126: Alex Wasiel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_126/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_126.mp3" length="30235669" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_126.mp3" length="30235669" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:01</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1404,7 +1405,7 @@
     	<description><![CDATA[Episode 125: Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_125/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_125.mp3" length="19200968" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_125.mp3" length="19200968" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:18</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1436,7 +1437,7 @@
     	<description><![CDATA[Episode 124: Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_124/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_124.mp3" length="29960171" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_124.mp3" length="29960171" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:55</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1472,7 +1473,7 @@
     	<description><![CDATA[Episode 123: Roadtrip W/Cait Johnson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_123/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_123.mp3" length="22336540" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_123.mp3" length="22336540" type="audio/mpeg"/>
 
 		<itunes:duration>00:39:58</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1505,7 +1506,7 @@
     	<description><![CDATA[Episode 122: AndrewBarnett]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_122/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_122.mp3" length="31765551" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_122.mp3" length="31765551" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:12</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1543,7 +1544,7 @@
     	<description><![CDATA[Episode 121: Tom Ballard and Matty B]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_121/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_121.mp3" length="35253160" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_121.mp3" length="35253160" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:32</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1589,7 +1590,7 @@
     	<description><![CDATA[Episode 120: The Forgotten Episode]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_120/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_120.mp3" length="30001593" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_120.mp3" length="30001593" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:13</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1617,7 +1618,7 @@
     	<description><![CDATA[Episode 119: Francis Blair]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_119/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_119.mp3" length="33842299" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_119.mp3" length="33842299" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:46</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1648,7 +1649,7 @@
     	<description><![CDATA[Episode 118: Mark Williamson, Ryan Crawford, Lester Diamond and Jasmine Langdon]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_118/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_118.mp3" length="33312806" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_118.mp3" length="33312806" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:35</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1691,7 +1692,7 @@
     	<description><![CDATA[Episode 117: New Years Eve W/Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_117/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_117.mp3" length="33509881" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_117.mp3" length="33509881" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:27</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1726,7 +1727,7 @@
     	<description><![CDATA[Episode 116: Christmas Episode with Mark Williamson, Ryan Crawford and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_116/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_116.mp3" length="29700999" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_116.mp3" length="29700999" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:56</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1771,7 +1772,7 @@
     	<description><![CDATA[Episode 115: Ryan Crawford and Where's Lester?]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_115/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_115.mp3" length="36229415" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_115.mp3" length="36229415" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1804,7 +1805,7 @@
     	<description><![CDATA[Episode 114: Chris Wainhouse]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_114/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_114.mp3" length="35805056" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_114.mp3" length="35805056" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:20</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1842,7 +1843,7 @@
     	<description><![CDATA[Episode 113: Peter Meisel and Tom Orr]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_113/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_113.mp3" length="46414727" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_113.mp3" length="46414727" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1885,7 +1886,7 @@
     	<description><![CDATA[Episode 112: Sam Bowring]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_112/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_112.mp3" length="29207355" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_112.mp3" length="29207355" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:14</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1926,7 +1927,7 @@
     	<description><![CDATA[Episode 111: Ryan Crawford and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_111/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_111.mp3" length="31088716" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_111.mp3" length="31088716" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:57</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -1970,7 +1971,7 @@
     	<description><![CDATA[Episode 110: Becky Lucas and Sam Campbell]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_110/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_110.mp3" length="31926803" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_110.mp3" length="31926803" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:13</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2017,7 +2018,7 @@
     	<description><![CDATA[Episode 109: Jonas Holt]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_109/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_109.mp3" length="33888631" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_109.mp3" length="33888631" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:08</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2053,7 +2054,7 @@
     	<description><![CDATA[Episode 108: Justin Anderson and Peter Green]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_108/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_108.mp3" length="43138542" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_108.mp3" length="43138542" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:05</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2094,7 +2095,7 @@
     	<description><![CDATA[Episode 107: Jonas Holt]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_107/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_107.mp3" length="33671890" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_107.mp3" length="33671890" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:06</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2134,7 +2135,7 @@
     	<description><![CDATA[Episode 106: Dane Hiser]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_106/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_106.mp3" length="35809533" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_106.mp3" length="35809533" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:22</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2169,7 +2170,7 @@
     	<description><![CDATA[Episode 105: Flashback W/ Josh Earl]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_105/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_105.mp3" length="21564896" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_105.mp3" length="21564896" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:37</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2205,7 +2206,7 @@
     	<description><![CDATA[Episode 104: Michael Chamberlin]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_104/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_104.mp3" length="43185134" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_104.mp3" length="43185134" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:15</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2238,7 +2239,7 @@
     	<description><![CDATA[Episode 103: Al Del Bene and Matt Coffey]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_103/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_103.mp3" length="41503698" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_103.mp3" length="41503698" type="audio/mpeg"/>
 
 		<itunes:duration>01:02:53</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2277,7 +2278,7 @@
     	<description><![CDATA[Episode 102: Mike Klimczak and Rob Hunter]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_102/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_102.mp3" length="53833762" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_102.mp3" length="53833762" type="audio/mpeg"/>
 
 		<itunes:duration>00:56:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2321,7 +2322,7 @@
     	<description><![CDATA[Episode 101: Tim Govers and Nathan Lentern]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_101/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_101.mp3" length="39001971" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_101.mp3" length="39001971" type="audio/mpeg"/>
 
 		<itunes:duration>01:01:41</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2363,7 +2364,7 @@
     	<description><![CDATA[Episode 100: Lester Diamond, Ryan Crawford and Carlo Sands]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_100/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_100.mp3" length="42232663" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_100.mp3" length="42232663" type="audio/mpeg"/>
 
 		<itunes:duration>01:09:11</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2411,7 +2412,7 @@
     	<description><![CDATA[Episode 099: Carlo Sands]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_099/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_099.mp3" length="36734053" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_099.mp3" length="36734053" type="audio/mpeg"/>
 
 		<itunes:duration>01:00:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2449,7 +2450,7 @@
     	<description><![CDATA[Episode 098: Peter Green and Billy Freeman]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_098/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_098.mp3" length="56217404" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_098.mp3" length="56217404" type="audio/mpeg"/>
 
 		<itunes:duration>01:00:29</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2490,7 +2491,7 @@
     	<description><![CDATA[Episode 097: Billy Freeman and Peter Green]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_097/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_097.mp3" length="54333290" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_097.mp3" length="54333290" type="audio/mpeg"/>
 
 		<itunes:duration>00:57:27</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2530,7 +2531,7 @@
     	<description><![CDATA[Episode 096: Shane Addison and Lester Diamond's car]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_096/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_096.mp3" length="36934005" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_096.mp3" length="36934005" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:00</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2573,7 +2574,7 @@
     	<description><![CDATA[Episode 095: Pinky Beecroft]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_095/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_095.mp3" length="37774474" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_095.mp3" length="37774474" type="audio/mpeg"/>
 
 		<itunes:duration>01:03:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2610,7 +2611,7 @@
     	<description><![CDATA[Episode 094: Mark Williamson, Ryan Crawford and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_094/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_094.mp3" length="35321244" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_094.mp3" length="35321244" type="audio/mpeg"/>
 
 		<itunes:duration>00:56:56</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2651,7 +2652,7 @@
     	<description><![CDATA[Episode 093: Lindsay Webb]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_093/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_093.mp3" length="54004141" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_093.mp3" length="54004141" type="audio/mpeg"/>
 
 		<itunes:duration>00:58:02</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2687,7 +2688,7 @@
     	<description><![CDATA[Episode 092: Adam Richard]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_092/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_092.mp3" length="34835800" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_092.mp3" length="34835800" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:37</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2725,7 +2726,7 @@
     	<description><![CDATA[Episode 091: Bonus Stu Macpherson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_091/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_091.mp3" length="21860241" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_091.mp3" length="21860241" type="audio/mpeg"/>
 
 		<itunes:duration>00:23:06</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2763,7 +2764,7 @@
     	<description><![CDATA[Episode 090: Reg D Hunter]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_090/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_090.mp3" length="46495548" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_090.mp3" length="46495548" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:40</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2802,7 +2803,7 @@
     	<description><![CDATA[Episode 089: Simon Kennedy]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_089/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_089.mp3" length="40211205" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_089.mp3" length="40211205" type="audio/mpeg"/>
 
 		<itunes:duration>01:02:00</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2841,7 +2842,7 @@
     	<description><![CDATA[Episode 088: A Very Special Episode]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_088/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_088.mp3" length="57271645" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_088.mp3" length="57271645" type="audio/mpeg"/>
 
 		<itunes:duration>01:01:35</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2876,7 +2877,7 @@
     	<description><![CDATA[Episode 087: Wil Sylvince]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_087/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_087.mp3" length="30366456" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_087.mp3" length="30366456" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:25</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2913,7 +2914,7 @@
     	<description><![CDATA[Episode 086: Emma Markezic]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_086/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_086.mp3" length="30532966" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_086.mp3" length="30532966" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:20</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2952,7 +2953,7 @@
     	<description><![CDATA[Episode 085: Daniel Townes and Francis Blair]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_085/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_085.mp3" length="40879967" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_085.mp3" length="40879967" type="audio/mpeg"/>
 
 		<itunes:duration>01:01:56</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -2995,7 +2996,7 @@
     	<description><![CDATA[Episode 084: Cam Knight]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_084/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_084.mp3" length="33007828" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_084.mp3" length="33007828" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:50</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3034,7 +3035,7 @@
     	<description><![CDATA[Episode 083: Glenn Wool]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_083/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_083.mp3" length="32031503" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_083.mp3" length="32031503" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:15</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3073,7 +3074,7 @@
     	<description><![CDATA[Episode 082: Matt Coffey and Josh Cohen]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_082/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_082.mp3" length="33171107" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_082.mp3" length="33171107" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:15</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3120,7 +3121,7 @@
     	<description><![CDATA[Episode 081: Josh Cohen]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_081/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_081.mp3" length="32828068" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_081.mp3" length="32828068" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:35</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3151,7 +3152,7 @@
     	<description><![CDATA[Episode 080: Ryan Crawford, Jasmine Langdon and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_080/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_080.mp3" length="39244198" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_080.mp3" length="39244198" type="audio/mpeg"/>
 
 		<itunes:duration>00:59:22</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3196,7 +3197,7 @@
     	<description><![CDATA[Episode 079: Scott Dooley]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_079/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_079.mp3" length="52329487" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_079.mp3" length="52329487" type="audio/mpeg"/>
 
 		<itunes:duration>01:01:05</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3235,7 +3236,7 @@
     	<description><![CDATA[Episode 078: Nick Foran]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_078/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_078.mp3" length="37577685" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_078.mp3" length="37577685" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:32</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3274,7 +3275,7 @@
     	<description><![CDATA[Episode 077: Julia Wilson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_077/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_077.mp3" length="41960911" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_077.mp3" length="41960911" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:28</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3310,7 +3311,7 @@
     	<description><![CDATA[Episode 076: Amanda Gray]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_076/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_076.mp3" length="41687691" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_076.mp3" length="41687691" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:35</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3347,7 +3348,7 @@
     	<description><![CDATA[Episode 075: And Wyatt]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_075/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_075.mp3" length="42964606" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_075.mp3" length="42964606" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:03</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3380,7 +3381,7 @@
     	<description><![CDATA[Episode 074: Jasmin Langdon and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_074/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_074.mp3" length="35178632" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_074.mp3" length="35178632" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:05</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3423,7 +3424,7 @@
     	<description><![CDATA[Episode 073: Ray Badran]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_073/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_073.mp3" length="27129212" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_073.mp3" length="27129212" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:56</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3462,7 +3463,7 @@
     	<description><![CDATA[Episode 072: Scott Dettrick, Matty B and Andrew Barnett]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_072/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_072.mp3" length="38092655" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_072.mp3" length="38092655" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3512,7 +3513,7 @@
     	<description><![CDATA[Episode 071: Ryan Crawford and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_071/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_071.mp3" length="25809295" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_071.mp3" length="25809295" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:49</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3554,7 +3555,7 @@
     	<description><![CDATA[Episode 070: Nathan Lentern]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_070/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_070.mp3" length="29539162" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_070.mp3" length="29539162" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:32</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3592,7 +3593,7 @@
     	<description><![CDATA[Episode 069: A Peter Meisel Christmas]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_069/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_069.mp3" length="21322576" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_069.mp3" length="21322576" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3630,7 +3631,7 @@
     	<description><![CDATA[Episode 068: Ryan Crawford Jasmine Langdon and Lester Diamond]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_068/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_068.mp3" length="28046508" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_068.mp3" length="28046508" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:48</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3675,7 +3676,7 @@
     	<description><![CDATA[Episode 067: Andrew Barnett]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_067/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_067.mp3" length="28915852" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_067.mp3" length="28915852" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:23</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3713,7 +3714,7 @@
     	<description><![CDATA[Episode 066: Steve Philp]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_066/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_066.mp3" length="30616972" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_066.mp3" length="30616972" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:18</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3752,7 +3753,7 @@
     	<description><![CDATA[Epiosde 065: Saturday Arvo]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_065/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_065.mp3" length="31445567" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_065.mp3" length="31445567" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:53</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3780,7 +3781,7 @@
     	<description><![CDATA[Episode 064: Seizure Kaiser]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_064/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_064.mp3" length="28409250" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_064.mp3" length="28409250" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:41</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3815,7 +3816,7 @@
     	<description><![CDATA[Episode 063: Chris Franklin]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_063/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_063.mp3" length="28084145" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_063.mp3" length="28084145" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:55</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3852,7 +3853,7 @@
     	<description><![CDATA[Episode 062: Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_062/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_062.mp3" length="26503056" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_062.mp3" length="26503056" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:17</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3889,7 +3890,7 @@
     	<description><![CDATA[Episode 061: Justin Hamilton and Alice Fraser]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_061/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_061.mp3" length="38348010" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_061.mp3" length="38348010" type="audio/mpeg"/>
 
 		<itunes:duration>00:58:08</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3930,7 +3931,7 @@
     	<description><![CDATA[Episode 060: Lester Diamond and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_060/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_060.mp3" length="42552955" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_060.mp3" length="42552955" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:11</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -3973,7 +3974,7 @@
     	<description><![CDATA[Episode 059: John Robertson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_059/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_059.mp3" length="27887492" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_059.mp3" length="27887492" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:14</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4006,7 +4007,7 @@
     	<description><![CDATA[Episode 058: LIVE Show With Keasty]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_058/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_058.mp3" length="26415392" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_058.mp3" length="26415392" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4037,7 +4038,7 @@
     	<description><![CDATA[Episode 057: The Dr Peter Green]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_057/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_057.mp3" length="27653448" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_057.mp3" length="27653448" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4071,7 +4072,7 @@
     	<description><![CDATA[Episode 056: LIVE Show W/Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_056/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_056.mp3" length="28643550" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_056.mp3" length="28643550" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4104,7 +4105,7 @@
     	<description><![CDATA[Episode 055: Ian Bagg]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_055/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_055.mp3" length="32408035" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_055.mp3" length="32408035" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:20</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4139,7 +4140,7 @@
     	<description><![CDATA[Episode 054: Luke Heggie and Matty B]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_054/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_054.mp3" length="28965570" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_054.mp3" length="28965570" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:39</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4184,7 +4185,7 @@
     	<description><![CDATA[Episode 053: Darren Sanders]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_053/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_053.mp3" length="33083904" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_053.mp3" length="33083904" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:13</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4220,7 +4221,7 @@
     	<description><![CDATA[Episode 052: The Four Hoarsemen]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_052/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_052.mp3" length="27229381" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_052.mp3" length="27229381" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:05</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4257,7 +4258,7 @@
     	<description><![CDATA[Episode 051: Alexus Dubus and Arnie Pie]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_051/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_051.mp3" length="24151036" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_051.mp3" length="24151036" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4297,7 +4298,7 @@
     	<description><![CDATA[Episode 050: Harley Breen]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_050/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_050.mp3" length="22931115" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_050.mp3" length="22931115" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4336,7 +4337,7 @@
     	<description><![CDATA[Episode 049: Josh Earl]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_049/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_049.mp3" length="21563824" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_049.mp3" length="21563824" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:37</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4370,7 +4371,7 @@
     	<description><![CDATA[Episode 048: Stephen Lynch]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_048/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_048.mp3" length="12455352" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_048.mp3" length="12455352" type="audio/mpeg"/>
 
 		<itunes:duration>00:24:41</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4402,7 +4403,7 @@
     	<description><![CDATA[Episode 047: Asher Treleaven]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_047/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_047.mp3" length="32937015" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_047.mp3" length="32937015" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:36</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4442,7 +4443,7 @@
     	<description><![CDATA[Episode 046: Matt Elsbury]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_046/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_046.mp3" length="25175218" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_046.mp3" length="25175218" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:13</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4477,7 +4478,7 @@
     	<description><![CDATA[Episode 045: Laura Imbruglia and Jeremy Keast]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_045/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_045.mp3" length="27236711" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_045.mp3" length="27236711" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:38</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4516,7 +4517,7 @@
     	<description><![CDATA[Episode 044: Clint Paddison]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_044/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_044.mp3" length="26759592" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_044.mp3" length="26759592" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:02</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4556,7 +4557,7 @@
     	<description><![CDATA[Episode 043: Rob Hunter]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_043/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_043.mp3" length="26291218" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_043.mp3" length="26291218" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4597,7 +4598,7 @@
     	<description><![CDATA[Episode 042: Christina Davis]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_042/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_042.mp3" length="26688706" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_042.mp3" length="26688706" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:28</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4638,7 +4639,7 @@
     	<description><![CDATA[Episode 041: Paul McDermott and Drew Bowie]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_041/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_041.mp3" length="20490086" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_041.mp3" length="20490086" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:51</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4679,7 +4680,7 @@
     	<description><![CDATA[Episode 040: Sol Bernstien]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_040/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_040.mp3" length="25847829" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_040.mp3" length="25847829" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:25</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4713,7 +4714,7 @@
     	<description><![CDATA[Episode 039: Dave Keeshan and Ryan Crawford]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_039/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_039.mp3" length="25687405" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_039.mp3" length="25687405" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:11</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4754,7 +4755,7 @@
     	<description><![CDATA[Episode 038: Bart Freebairn and Steele Saunders]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_038/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_038.mp3" length="24195056" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_038.mp3" length="24195056" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:52</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4789,7 +4790,7 @@
     	<description><![CDATA[Episode 037: Danny McGinlay]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_037/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_037.mp3" length="29230992" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_037.mp3" length="29230992" type="audio/mpeg"/>
 
 		<itunes:duration>00:39:59</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4827,7 +4828,7 @@
     	<description><![CDATA[Episode 036: Andrew Barnett (Sydney Comedy Festival)]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_036/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_036.mp3" length="21279485" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_036.mp3" length="21279485" type="audio/mpeg"/>
 
 		<itunes:duration>00:27:22</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4866,7 +4867,7 @@
     	<description><![CDATA[Episode 035: Mickey D and Boo Dwyer]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_035/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_035.mp3" length="28325739" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_035.mp3" length="28325739" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:34</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4904,7 +4905,7 @@
     	<description><![CDATA[Episode 034: Trevor Crook]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_034/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_034.mp3" length="26338192" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_034.mp3" length="26338192" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:53</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4942,7 +4943,7 @@
     	<description><![CDATA[Episode 033: Derek Flores and El Jaguar]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_033/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_033.mp3" length="26568536" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_033.mp3" length="26568536" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:19</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -4981,7 +4982,7 @@
     	<description><![CDATA[Episode 032: Dan Ilic]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_032/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_032.mp3" length="31906805" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_032.mp3" length="31906805" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:12</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5016,7 +5017,7 @@
     	<description><![CDATA[Episode 031: Michael Connell]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_031/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_031.mp3" length="37811022" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_031.mp3" length="37811022" type="audio/mpeg"/>
 
 		<itunes:duration>00:57:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5053,7 +5054,7 @@
     	<description><![CDATA[Episode 030: Ronnie Chieng]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_030/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_030.mp3" length="28630342" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_030.mp3" length="28630342" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:44</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5091,7 +5092,7 @@
     	<description><![CDATA[Episode 029: Peter Berner]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_029/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_029.mp3" length="39882363" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_029.mp3" length="39882363" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:46</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5129,7 +5130,7 @@
     	<description><![CDATA[Episode 028: Fiona O'Loughlin]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_028/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_028.mp3" length="31489044" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_028.mp3" length="31489044" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:24</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5167,7 +5168,7 @@
     	<description><![CDATA[Episode 027: Matt Okine and Tom Oakley]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_027/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_027.mp3" length="26645962" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_027.mp3" length="26645962" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:43</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5208,7 +5209,7 @@
     	<description><![CDATA[Episode 026: Daniel Townes and Dave Jory]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_026/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_026.mp3" length="34698840" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_026.mp3" length="34698840" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:10</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5250,7 +5251,7 @@
     	<description><![CDATA[Episode 025: Liz Stephens and Rebecca De Unamuno]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_025/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_025.mp3" length="33795523" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_025.mp3" length="33795523" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:07</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5292,7 +5293,7 @@
     	<description><![CDATA[Episode 024: Scott Dooley]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_024/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_024.mp3" length="30528211" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_024.mp3" length="30528211" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:16</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5330,7 +5331,7 @@
     	<description><![CDATA[Episode 023: Brendon Burns]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_023/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_023.mp3" length="48028322" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_023.mp3" length="48028322" type="audio/mpeg"/>
 
 		<itunes:duration>01:05:04</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5364,7 +5365,7 @@
     	<description><![CDATA[Episode 022: Claire Hooper]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_022/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_022.mp3" length="27066271" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_022.mp3" length="27066271" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:42</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5402,7 +5403,7 @@
     	<description><![CDATA[Episode 021: Subby Valentine and Benny Davis]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_021/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_021.mp3" length="27621206" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_021.mp3" length="27621206" type="audio/mpeg"/>
 
 		<itunes:duration>00:36:16</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5444,7 +5445,7 @@
     	<description><![CDATA[Episode 020: Ande Kindryd, Francis Blair and Dave Keeshan]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_020/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_020.mp3" length="26187741" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_020.mp3" length="26187741" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:38</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5490,7 +5491,7 @@
     	<description><![CDATA[Episode 019: Ian Simmons and Carrie Hardie]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_019/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_019.mp3" length="29175491" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_019.mp3" length="29175491" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:38</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5528,7 +5529,7 @@
     	<description><![CDATA[Episode 018: Tom Ballard and Peter Meisel (Live)]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_018/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_018.mp3" length="26211569" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_018.mp3" length="26211569" type="audio/mpeg"/>
 
 		<itunes:duration>00:39:18</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5571,7 +5572,7 @@
     	<description><![CDATA[Episode 017: Chris Radburn and Mick Meredith]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_017/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_017.mp3" length="61796142" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_017.mp3" length="61796142" type="audio/mpeg"/>
 
 		<itunes:duration>01:02:56</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5608,7 +5609,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 016: Michael Workman, Anil Desai and Celia Pacquola]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_016/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_016.mp3" length="28930146" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_016.mp3" length="28930146" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5650,7 +5651,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 015: Wil Anderson and Justin Hamilton (part 2)]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_015/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_015.mp3" length="50847919" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_015.mp3" length="50847919" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:34</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5689,7 +5690,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 014: Wil Anderson and Justin Hamilton (part 1)]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_014/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_014.mp3" length="33696551" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_014.mp3" length="33696551" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:02</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5727,7 +5728,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 013: Tommy Dean and Jackie Loeb]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_013/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_013.mp3" length="29449206" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_013.mp3" length="29449206" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:51</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5769,7 +5770,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 012: Jeremy Keast and Carrie Hardie]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_012/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_012.mp3" length="27440901" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_012.mp3" length="27440901" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:36</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5811,7 +5812,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 011: Julia Wilson and Michael Chamberlin]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_011/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_011.mp3" length="29850255" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_011.mp3" length="29850255" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:08</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5853,7 +5854,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 010: Steele Saunders and Ray Badran]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_010/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_010.mp3" length="24637261" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_010.mp3" length="24637261" type="audio/mpeg"/>
 
 		<itunes:duration>00:33:50</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5896,7 +5897,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 009: John Robertson and Jimmy James Eaton]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_009/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_009.mp3" length="25842323" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_009.mp3" length="25842323" type="audio/mpeg"/>
 
 		<itunes:duration>00:33:40</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5938,7 +5939,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 008: Dave Keeshan and Andrew Barnett]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_008/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_008.mp3" length="41749345" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_008.mp3" length="41749345" type="audio/mpeg"/>
 
 		<itunes:duration>00:58:23</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -5982,7 +5983,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 007: Laura Davis and Shane Matheson]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_007/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_007.mp3" length="20839261" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_007.mp3" length="20839261" type="audio/mpeg"/>
 
 		<itunes:duration>00:28:41</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6024,7 +6025,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 006: Justin Lodge and Dom Romeo]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_006/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_006.mp3" length="38320581" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_006.mp3" length="38320581" type="audio/mpeg"/>
 
 		<itunes:duration>00:55:12</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6068,7 +6069,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 005: David Smiedt and Brent Thorpe]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_005/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_005.mp3" length="24361902" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_005.mp3" length="24361902" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:54</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6110,7 +6111,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 004: Dave Bloustien and Aaron Counter]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_004/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_004.mp3" length="32070560" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_004.mp3" length="32070560" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:42</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6154,7 +6155,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 003: Ed Byrne]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_003/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_003.mp3" length="15661391" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_003.mp3" length="15661391" type="audio/mpeg"/>
 
 		<itunes:duration>00:21:47</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6192,7 +6193,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 002: Seizure Kaiser and Peter Green]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_002/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_002.mp3" length="27031065" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_002.mp3" length="27031065" type="audio/mpeg"/>
 
 		<itunes:duration>00:31:14</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
@@ -6236,7 +6237,7 @@ A bit of a treat, we have a lost episode of the EDGE podcast that we recently du
     	<description><![CDATA[Episode 001: Daniel Townes and Peter Meisel]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://mwshow.podonaut.com/mws_001/#" />
 		
-<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_001.mp3" length="79039038" type="audio/mpeg"/>
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/mwshow/mws_001.mp3" length="79039038" type="audio/mpeg"/>
 
 		<itunes:duration>00:54:25</itunes:duration>
 		<itunes:author>Mark Williamson</itunes:author>
